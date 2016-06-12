@@ -8,4 +8,4 @@ Print ISBN-13: 978-1-4919-4493-6
 Pages in Print Edition: 366  
 Subscriber Rating: 5 out of 5 rating [5 Ratings] Subscriber Reviews  
 
-Bookmark: Chapter 5. Manage Sandbox Environments with Test Kitchen
+Bookmark: Chapter 5. Spinning Up Your First Virtual Machine
