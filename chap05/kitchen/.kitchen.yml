@@ -7,9 +7,10 @@ provisioner:
 
 platforms:
   - name: centos65
-  driver:
-    box: learningchef/chap05/centos65
-    box_url: learningchef/chap05/centos65
+    driver:
+      box: learningchef/centos65
+      box_url: learningchef/centos65
+
 
 suites:
   - name: default

@@ -8,10 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "chap05/kitchen/.kitchen.yml",
+			"file": "/Users/jffalcao/workspace/vagrant-learning/Vagrantfile",
 			"settings":
 			{
-				"buffer_size": 230,
+				"buffer_size": 372,
 				"line_ending": "Unix"
 			}
 		}
@@ -48,12 +48,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jffalcao/workspace/learningchef",
-		"/Users/jffalcao/workspace/learningchef/chap05",
-		"/Users/jffalcao/workspace/learningchef/chap05/kitchen"
+		"/Users/jffalcao/workspace/vagrant-learning",
+		"/Users/jffalcao/workspace/vagrant-learning/cookbooks",
+		"/Users/jffalcao/workspace/vagrant-learning/cookbooks/webserver",
+		"/Users/jffalcao/workspace/vagrant-learning/cookbooks/webserver/recipes"
 	],
 	"file_history":
 	[
+		"/Users/jffalcao/workspace/learningchef/chap05/kitchen/.kitchen.yml",
 		"/Users/jffalcao/workspace/learningchef/chap05/.kitchen.yml",
 		"/Users/jffalcao/workspace/learningchef/kitchen/.kitchen.yml",
 		"/Users/jffalcao/workspace/learningchef/README.md"
@@ -96,24 +98,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "chap05/kitchen/.kitchen.yml",
+					"file": "/Users/jffalcao/workspace/vagrant-learning/Vagrantfile",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 230,
+						"buffer_size": 372,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								173,
-								173
+								328,
+								328
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -161,7 +163,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "learningchef.sublime-project",
+	"project": "vagrant-learning.sublime-project",
 	"replace":
 	{
 		"height": 0.0
